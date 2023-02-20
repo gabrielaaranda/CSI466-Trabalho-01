@@ -10,7 +10,3 @@ while caminho != '0' :
         start_time = time.time()
         readLabyrinth(caminho)
         print("\nTempo: ", time.time() - start_time)
-    
-print("acabou")
-
-
